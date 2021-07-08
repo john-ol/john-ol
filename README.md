@@ -1,3 +1,6 @@
+![background](https://user-images.githubusercontent.com/15782009/124915069-c632c980-dff9-11eb-8bd8-abcd49f7bc39.png)
+
+
   **### Hi thre 👋**
 
 I'm a junior Web Developer having 1,5 years of experience in building websites and apps that are responsive and usable. Proficient in HTML5 and css3. Good knowledge of SASS, SCSS preprocessors. Moderate knowledge and experience with JavaScript plus modern libraries. Possess working knowledge of React library.
