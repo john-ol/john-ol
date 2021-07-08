@@ -7,5 +7,4 @@ In the search for a position where I can enhance my skillset in web technologies
 ##### 🛠 I'm currently working on a blog (React, Redux, TypeScript, Express, MongoDB)
 ##### 📚 I'm currently learning Next.js, TypeScript, GraphQL, Apollo Client
   
-<img height="20 "src="https://www.oleinikov.dev/project-icons/gatsby.svg">
-<img height="20 "src="https://www.oleinikov.dev/project-icons/gatsby.svg">
+![Alt text](//https://www.oleinikov.dev/project-icons/gatsby.svg "Можно задать title")
