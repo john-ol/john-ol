@@ -10,7 +10,36 @@ In the search for a position where I can enhance my skillset in web technologies
 - **🛠 I'm currently working on a blog (React, Redux, TypeScript, Express, MongoDB)**
 - **📚 I'm currently learning Next.js, TypeScript, GraphQL, Apollo Client**
 
-| ![javascript](https://www.oleinikov.dev/project-icons/javascript.svg) | ![node.js](https://www.oleinikov.dev/project-icons/nodejs.svg) | ![react](https://www.oleinikov.dev/project-icons/react-js.svg) | ![next.js](https://www.oleinikov.dev/project-icons/next-js.svg) | ![gatsby](https://www.oleinikov.dev/project-icons/gatsby.svg) | ![redux](https://www.oleinikov.dev/project-icons/redux.svg) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Express | ![mongodb](https://www.oleinikov.dev/project-icons/mongo-db.svg) | ![html5](https://www.oleinikov.dev/project-icons/html5.svg) | ![css3](https://www.oleinikov.dev/project-icons/CSS-3.svg) | ![tailwind css](https://www.oleinikov.dev/project-icons/tailwind-css.svg) | ![styled-components](https://www.oleinikov.dev/project-icons/styled-components.svg) |
-| ![material-ui](https://www.oleinikov.dev/project-icons/material-ui.svg) | ![framer motion](https://www.oleinikov.dev/project-icons/framer.svg) | ![photoshop](https://www.oleinikov.dev/project-icons/photoshop-cc.svg) | ![illustrator](https://www.oleinikov.dev/project-icons/adobe-illustrator-cc.svg) | ![abode xd](https://www.oleinikov.dev/project-icons/adobe-xd.svg) | ![figma](https://www.oleinikov.dev/project-icons/figma.svg) |
+💻 **Tech stack:**
+
+[![javaScript](https://www.oleinikov.dev/readme/javaScript.svg "javaScript")](https://www.oleinikov.dev/readme/javaScript.svg "javaScript")
+[![node js](https://www.oleinikov.dev/readme/node-js.svg "node js")](https://www.oleinikov.dev/readme/node-js.svg "node js")
+[![react](https://www.oleinikov.dev/readme/react.svg "react")](https://www.oleinikov.dev/readme/react.svg "react")
+[![redux](https://www.oleinikov.dev/readme/redux.svg "redux")](https://www.oleinikov.dev/readme/redux.svg "redux")
+[![next.js](https://www.oleinikov.dev/readme/next-js.svg "next-js")](https://www.oleinikov.dev/readme/next-js.svg "next.js")
+[![gatsby](https://www.oleinikov.dev/readme/gatsby.svg "gatsby")](https://www.oleinikov.dev/readme/gatsby.svg "gatsby")
+[![framer motion](https://www.oleinikov.dev/readme/framer-motion.svg "framer motion")](https://www.oleinikov.dev/readme/framer-motion.svg "framer motion")
+[![graphQL](https://www.oleinikov.dev/readme/graph-ql.svg "graphQL")](https://www.oleinikov.dev/readme/graph-ql.svg "graphQL")
+[![express](https://www.oleinikov.dev/readme/express.svg "express")](https://www.oleinikov.dev/readme/express.svg "express")
+[![mongoDB](https://www.oleinikov.dev/readme/mongo-db.svg "mongoDB")](https://www.oleinikov.dev/readme/mongo-db.svg "mongoDB")
+[![html5](https://www.oleinikov.dev/readme/html5.svg "html5")](https://www.oleinikov.dev/readme/html5.svg "html5")
+[![css3](https://www.oleinikov.dev/readme/css3.svg "css3")](https://www.oleinikov.dev/readme/css3.svg "css3")
+[![sass](https://www.oleinikov.dev/readme/sass.svg "sass")](https://www.oleinikov.dev/readme/sass.svg "sass")
+[![styled components](https://www.oleinikov.dev/readme/styled-components.svg "styled components")](https://www.oleinikov.dev/readme/styled-components.svg "styled components")
+[![tailwind css](https://www.oleinikov.dev/readme/tailwind-css.svg "tailwind css")](https://www.oleinikov.dev/readme/tailwind-css.svg "tailwind css")
+[![material ui](https://www.oleinikov.dev/readme/material-ui.svg "material ui")](https://www.oleinikov.dev/readme/material-ui.svg "material ui")
+[![bootstrap](https://www.oleinikov.dev/readme/bootstrap.svg "bootstrap")](https://www.oleinikov.dev/readme/bootstrap.svg "bootstrap")
+[![markdown](https://www.oleinikov.dev/readme/markdown.svg "markdown")](https://www.oleinikov.dev/readme/markdown.svg "markdown")
+
+🧰 **Tools:**
+
+[![git](https://www.oleinikov.dev/readme/git.svg "git")](https://www.oleinikov.dev/readme/git.svg "git")
+[![github](https://www.oleinikov.dev/readme/github.svg "github")](https://www.oleinikov.dev/readme/github.svg "github")
+[![webpack](https://www.oleinikov.dev/readme/webpack.svg "webpack")](https://www.oleinikov.dev/readme/webpack.svg "webpack")
+[![gulp](https://www.oleinikov.dev/readme/gulp.svg "gulp")](https://www.oleinikov.dev/readme/gulp.svg "gulp")
+[![vs code](https://www.oleinikov.dev/readme/vs-code.svg "vs code")](https://www.oleinikov.dev/readme/vs-code.svg "vs code")
+[![adobe photoshop](https://www.oleinikov.dev/readme/adobe-photoshop.svg "adobe photoshop")](https://www.oleinikov.dev/readme/adobe-photoshop.svg "adobe photoshop")
+[![adobe illustrator](https://www.oleinikov.dev/readme/adobe-illustrator.svg "adobe illustrator")](https://www.oleinikov.dev/readme/adobe-illustrator.svg "adobe illustrator")
+[![adobe xd](https://www.oleinikov.dev/readme/adobe-xd.svg "adobe xd")](https://www.oleinikov.dev/readme/adobe-xd.svg "adobe xd")
+[![figma](https://www.oleinikov.dev/readme/figma.svg "figma")](https://www.oleinikov.dev/readme/figma.svg "figma")
+
